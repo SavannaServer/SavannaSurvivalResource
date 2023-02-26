@@ -1,0 +1,5 @@
+name: SavannaSurvivalResource
+version: '${project.version}'
+main: net.ramuremo.savannasurvivalresource.SavannaSurvivalResource
+api-version: 1.19
+authors: [ RamuneRemonedo ]
